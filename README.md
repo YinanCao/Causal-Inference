@@ -15,9 +15,8 @@ data/code for 'Causal inference in the multisensory brain'
   - offset sample (Fs = 1017.25Hz) 1 [1/60] blank frame after 0.55s
   - sessionID
   - blockID
- - `Data_sum`: [76 x 9 x 15] = [Conditions x Vars x Subjects]
- 
-   Last 12 conditions are unisensory
+  
+ - `Data_sum`: [76 x 9 x 15] = [Conditions x Vars x Subjects]; Last 12 conditions are unisensory
    
    Column Vars represent:
   - task (Aud = 0/Vis = 1)
