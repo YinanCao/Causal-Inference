@@ -33,4 +33,4 @@ Data/code for 'Causal inference in the multisensory brain'
 `Model.mat`: Modelling results
 - `Modelpred`: [15 x 64 x 4] = [Subjects x Conditions x Models (CI-MA, Fusion, SA, SV)], units in Hz
 - `modelRDM`: [15 x 2016 x 4] = [Subjects x Pairs x Models (CI-MA, Fusion, SA, SV)], ranked Euclidean distance
-- `parameter`: 6 cells, model order: (CI-MA, CI-PM, CI-MA, Likelihood, Fusion, Seg) see Table S1.
+- `parameter`: 6 cells, model order: (CI-MA, CI-PM, CI-MS, Likelihood, Fusion, Seg) see Table S1.
