@@ -26,5 +26,5 @@ Data/code for 'Causal inference in the multisensory brain'
   - Count of slowest choice (9.09)
   - Count of slow choice (12.7)
   - Count of fast choice (16.36)
-  - Count of fastest choice (20Hz)
+  - Count of fastest choice (20 Hz)
   - Total number of trials per condition
