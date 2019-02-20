@@ -16,7 +16,9 @@ data/code for 'Causal inference in the multisensory brain'
   - sessionID
   - blockID
  - `Data_sum`: [76 x 9 x 15] = [Conditions x Vars x Subjects]
+ 
    Last 12 conditions are unisensory
+   
    Column Vars represent:
   - task (Aud = 0/Vis = 1)
   - Aud reliability (High = 1/Low = 2/Uni = 3)
