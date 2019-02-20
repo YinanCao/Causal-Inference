@@ -6,7 +6,7 @@ Data_15subjs_22Trls_MEGextract.mat: behavioural data for 4-choice rate categoris
 
   Vars columns represent:
   
-  task (Aud=0/Vis=1)
+  `task (Aud=0/Vis=1)`
   Aud reliability (High=1/Low=2/Uni=3)
   Vis rate (1,2,3,4 increasing)
   Aud rate (1,2,3,4 increasing)
