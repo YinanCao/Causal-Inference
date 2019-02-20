@@ -16,7 +16,8 @@ data/code for 'Causal inference in the multisensory brain'
   - sessionID
   - blockID
  - `Data_sum`: [76 x 9 x 15] = [Conditions x Vars x Subjects]
-    Column Vars represent:
+   Last 12 conditions are unisensory
+   Column Vars represent:
   - task (Aud = 0/Vis = 1)
   - Aud reliability (High = 1/Low = 2/Uni = 3)
   - Vis rate (9.09, 12.7, 16.36, 20 Hz)
@@ -25,3 +26,4 @@ data/code for 'Causal inference in the multisensory brain'
   - Count of slow choice (12.7)
   - Count of fast choice (16.36)
   - Count of fastest choice (20Hz)
+  - Total number of trials per condition
