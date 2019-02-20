@@ -20,9 +20,9 @@ Data/code for 'Causal inference in the multisensory brain'
    
    Column Vars represent:
   - task (Aud = 0/Vis = 1)
-  - Aud reliability (High = 1/Low = 2/Uni = 3)
-  - Vis rate (9.09, 12.7, 16.36, 20 Hz)
-  - Aud rate (9.09, 12.7, 16.36, 20 Hz)
+  - Aud reliability (High = 1/Low = 2/Uni = NaN)
+  - Vis rate (9.09, 12.7, 16.36, 20 Hz; NaN for respective unisensory)
+  - Aud rate (9.09, 12.7, 16.36, 20 Hz; NaN for respective unisensory)
   - Count of slowest choice (9.09)
   - Count of slow choice (12.7)
   - Count of fast choice (16.36)
