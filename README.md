@@ -1,5 +1,5 @@
-# Causal-Inference
-data/code for 'Causal inference in the multisensory brain'
+## Causal-Inference
+Data/code for 'Causal inference in the multisensory brain'
 
 `Data_15subjs_22Trls_MEGextract.mat`: behavioural data for 4-choice rate categorisation
 - `Data_runs`: [1672 x 11 x 15] = [Trials x Vars x Subjects]
