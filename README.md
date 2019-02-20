@@ -12,8 +12,8 @@ data/code for 'Causal inference in the multisensory brain'
   - Response (1,2,3,4 increasing)
   - reaction time (unit=second)
   - onset sample (Fs=1017.25Hz)
-  - offset sample (Fs=1017.25Hz) 1 [1/60] blank frame after 0.55
+  - offset sample (Fs=1017.25Hz) 1 [1/60] blank frame after 0.55s
   - sessionID
   - blockID
-  
+ - `Data_sum`: [76 x 9 x 15] = [Conditions x Vars x Subjects]
   
