@@ -28,3 +28,7 @@ Data/code for 'Causal inference in the multisensory brain'
   - Count of fast choice (16.36)
   - Count of fastest choice (20 Hz)
   - Total number of trials per condition
+
+
+`Model.mat`: Modelling results
+- `Modelpred`: [15 x 64 x 4] = [Subjects x Conditions x Models (CI-MA, Fusion, SA, SV)]
