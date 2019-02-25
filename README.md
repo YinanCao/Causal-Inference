@@ -48,3 +48,8 @@ Data/code for 'Causal inference in the multisensory brain'
    - p(common) or pc
    - Log-likelihood
    - R-sq
+
+
+### `MEG_ROI_RDM.mat`: cross-validated Mahalanobis distance (5 folds)
+- `MEG_ROI_RDM`: [2016 x 24 x 15] = [Pairs x ROIs x Subjects]
+- `MEG_ROI_name`: Anatomical label, stim or resp-locked
