@@ -1,6 +1,9 @@
 ## Causal-Inference
 Data/code for 'Causal inference in the multisensory brain' (https://doi.org/10.1016/j.neuron.2019.03.043)
 
+## Abstract
+When combining information across different senses, humans need to flexibly select cues of a common origin while avoiding distraction from irrelevant inputs. The brain could solve this challenge using a hierarchical principle by deriving rapidly a fused sensory estimate for computational expediency and, later and if required, filtering out irrelevant signals based on the inferred sensory cause(s). Analyzing time- and source-resolved human magnetoencephalographic data, we unveil a systematic spatiotemporal cascade of the relevant computations, starting with early segregated unisensory representations, continuing with sensory fusion in parietal-temporal regions, and culminating as causal inference in the frontal lobe. Our results reconcile previous computational accounts of multisensory perception by showing that prefrontal cortex guides flexible integrative behavior based on candidate representations established in sensory and association cortices, thereby framing multisensory integration in the generalized context of adaptive behavior.
+
 ### `Data_15subjs_22Trls_MEGextract.mat`: behavioural data for 4-choice rate categorisation
 - `Data_runs`: [1672 x 11 x 15] = [Trials x Vars x Subjects]
 
